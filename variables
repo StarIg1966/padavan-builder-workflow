@@ -1,7 +1,7 @@
 PADAVAN_REPO="https://github.com/nilabsent/padavan-ng.git"
 PADAVAN_BRANCH="master"
 PADAVAN_COMMIT="HEAD"
-#PADAVAN_TOOLCHAIN_URL="https://github.com/nilabsent/padavan-ng/commit/27c3ebfe7b11840cf410c117f6f8bd8f0a391893"
+PADAVAN_TOOLCHAIN_URL="https://github.com/nilabsent/padavan-ng/commit/27c3ebfe7b11840cf410c117f6f8bd8f0a391893"
 
 PADAVAN_THEMES_REPO="https://gitlab.com/hadzhioglu/padavan-themes.git"
 #PADAVAN_THEMES_REPO="https://gitlab.com/hadzhioglu/padavan-themes-lite.git"
